@@ -8,7 +8,7 @@
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>Copy path Kopie</string>
+				<string>Copy path to clipboard</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>
