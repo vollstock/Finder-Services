@@ -1,3 +1,13 @@
+# Nerd post install
+
+A simple shell script that installs some stuff and configures the terminal to my taste.
+
+- xCode Command Line Tools
+- [Homebrew](http://brew.sh/)
+- Custom .bash_profile
+- [Nano syntax highlighting](https://github.com/serialhex/nano-highlight) by [serialhex](https://github.com/serialhex)
+
+
 # Finder Services
 
 Some services I have been missing in Apples Finder.
@@ -5,8 +15,6 @@ Basically it's simple Automator workflows that I have created to make my life ea
 I'd be moire thab happy if it could make yours a little easier, too :-)
 
 Enjoy.
-
-## Services
 
 **Copy path to clipboard**
 
@@ -25,7 +33,6 @@ This is the shell script code, these workflows are running:
 defaults write com.apple.finder AppleShowAllFiles FALSE
 killall Finder
 ```
-
 
 ## Installation
 
